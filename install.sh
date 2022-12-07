@@ -5,4 +5,3 @@ cp -rf $HOME/.dotfiles/.p10k.zsh $HOME
 cp -rf $HOME/.dotfiles/.profile $HOME
 cp -rf $HOME/.dotfiles/.vimrc $HOME
 cp -rf $HOME/.dotfiles/.zshrc $HOME
-cp -rf $HOME/.dotfiles/settings.json $HOME/gitpod/.vscode-server/data/Machine
